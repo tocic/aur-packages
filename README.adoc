@@ -1,0 +1,11 @@
+= aur-packages
+:source-highlighter: highlight.js
+:repo: https://github.com/tocic/aur-packages
+
+This repo contains the packages I maintain on https://aur.archlinux.org[the AUR].
+
+https://aur.archlinux.org/packages?K=tocic&SeB=m[Packages]
+|
+https://repology.org/projects/?maintainer=tocic%40aur&inrepo=aur[Status]
+|
+https://repology.org/maintainer/tocic%40aur/feed-for-repo/aur[Update feed]
