@@ -1,0 +1,12 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/ingydotnet/git-subrepo#readme
+;
+[subrepo]
+	remote = ssh://aur@aur.archlinux.org/quill.git
+	branch = master
+	commit = 094a0e5574a3359d4d6133645456d2f6cf3f4683
+	parent = d59d550712c7700c2193072bd22b79c6efc9208f
+	method = rebase
+	cmdver = 0.4.9
