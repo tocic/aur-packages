@@ -1,0 +1,12 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/ingydotnet/git-subrepo#readme
+;
+[subrepo]
+	remote = ssh://aur@aur.archlinux.org/chaiscript.git
+	branch = master
+	commit = c51d0a12e32efca463e5d689284362b94adfb216
+	parent = 878c405c415f16991e629a0d8b78e83f8b04bb92
+	method = rebase
+	cmdver = 0.4.9
