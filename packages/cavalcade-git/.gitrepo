@@ -1,0 +1,12 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/ingydotnet/git-subrepo#readme
+;
+[subrepo]
+	remote = ssh://aur@aur.archlinux.org/cavalcade-git.git
+	branch = master
+	commit = e456e1da14cf67a858b6ad4a549bd20c019a2510
+	parent = 763677faa066b1a9571b7023a650989539da7d4d
+	method = rebase
+	cmdver = 0.4.9
