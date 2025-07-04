@@ -1,0 +1,12 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/ingydotnet/git-subrepo#readme
+;
+[subrepo]
+	remote = ssh://aur@aur.archlinux.org/concurrencpp.git
+	branch = master
+	commit = e44a925ba12e57ccecf68f5e910c8c7e1f3bc9b6
+	parent = f74528c877b1138797804881f53f69ca7bdb4192
+	method = rebase
+	cmdver = 0.4.9
