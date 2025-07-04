@@ -1,0 +1,12 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/ingydotnet/git-subrepo#readme
+;
+[subrepo]
+	remote = ssh://aur@aur.archlinux.org/sdl2pp.git
+	branch = master
+	commit = 95f3025b2ec776806ca3fdaee8d52cc5aa719a80
+	parent = 3533f2b59bd8f45e69048afe487abd40e7991bc4
+	method = rebase
+	cmdver = 0.4.9
