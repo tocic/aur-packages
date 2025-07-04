@@ -1,0 +1,12 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/ingydotnet/git-subrepo#readme
+;
+[subrepo]
+	remote = ssh://aur@aur.archlinux.org/snitch.git
+	branch = master
+	commit = 59a1971563e6c566970eec9006de52701e6e8486
+	parent = 32dc4e012999d30ae943fd23e52abdc401d1f3fe
+	method = rebase
+	cmdver = 0.4.9
