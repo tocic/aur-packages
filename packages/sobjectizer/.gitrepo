@@ -1,0 +1,12 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/ingydotnet/git-subrepo#readme
+;
+[subrepo]
+	remote = ssh://aur@aur.archlinux.org/sobjectizer.git
+	branch = master
+	commit = 05b5930bbd940c29b4a8da312b6cceaec120eb34
+	parent = ba42588005b00459dec5e8c78ec3c006a2711131
+	method = rebase
+	cmdver = 0.4.9
