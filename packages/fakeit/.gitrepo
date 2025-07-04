@@ -1,0 +1,12 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/ingydotnet/git-subrepo#readme
+;
+[subrepo]
+	remote = ssh://aur@aur.archlinux.org/fakeit.git
+	branch = master
+	commit = e831773da9c7a02ffc91b0983bccbef4e5afb6d4
+	parent = 4c56e04b5b453d6db88e4d55ee0a0e74860a0eac
+	method = rebase
+	cmdver = 0.4.9
