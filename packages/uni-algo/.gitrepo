@@ -1,0 +1,12 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/ingydotnet/git-subrepo#readme
+;
+[subrepo]
+	remote = ssh://aur@aur.archlinux.org/uni-algo.git
+	branch = master
+	commit = 5a870c392fbbfc020b6feaf8e8db1bdb34410b5e
+	parent = f0d51387dd8090932bee17f751ec45bbf8c0bd76
+	method = rebase
+	cmdver = 0.4.9
