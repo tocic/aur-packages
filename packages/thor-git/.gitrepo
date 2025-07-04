@@ -1,0 +1,12 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/ingydotnet/git-subrepo#readme
+;
+[subrepo]
+	remote = ssh://aur@aur.archlinux.org/thor-git.git
+	branch = master
+	commit = f16c1ee875aebb3465c8c23bddae2c41eb8043fa
+	parent = c43162e76e4707b4929abc5a60592fbb9676a31a
+	method = rebase
+	cmdver = 0.4.9
