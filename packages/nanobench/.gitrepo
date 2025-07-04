@@ -1,0 +1,12 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/ingydotnet/git-subrepo#readme
+;
+[subrepo]
+	remote = ssh://aur@aur.archlinux.org/nanobench.git
+	branch = master
+	commit = 36290f17ce1451614e084c7e1b1a46382d2d410b
+	parent = 585233d6d692a099ff277de8a35ea89d44dab10f
+	method = rebase
+	cmdver = 0.4.9
