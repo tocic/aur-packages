@@ -1,0 +1,12 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/ingydotnet/git-subrepo#readme
+;
+[subrepo]
+	remote = ssh://aur@aur.archlinux.org/duma-git.git
+	branch = master
+	commit = 946aac9c42ece4b239302fedbe3ef53120eb32b7
+	parent = 3d1f76b273cfdcfd78dae5d59c18459a99109103
+	method = rebase
+	cmdver = 0.4.9
