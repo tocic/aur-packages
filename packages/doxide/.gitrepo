@@ -1,0 +1,12 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/ingydotnet/git-subrepo#readme
+;
+[subrepo]
+	remote = ssh://aur@aur.archlinux.org/doxide.git
+	branch = master
+	commit = d47fa7d31784bc1fd31f921da9e5f94e655fd4b6
+	parent = 3dda0bbd0f9f1dbd650a3e974081964261996454
+	method = rebase
+	cmdver = 0.4.9
