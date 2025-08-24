@@ -6,7 +6,7 @@
 [subrepo]
 	remote = ssh://aur@aur.archlinux.org/thor-git.git
 	branch = master
-	commit = f16c1ee875aebb3465c8c23bddae2c41eb8043fa
-	parent = c43162e76e4707b4929abc5a60592fbb9676a31a
+	commit = e56882ca22d7828060a1934c921efe3572dcb470
+	parent = 58861a0523ba97bfd75aa18541b534f462471ac1
 	method = rebase
 	cmdver = 0.4.9
