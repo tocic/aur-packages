@@ -6,7 +6,7 @@
 [subrepo]
 	remote = ssh://aur@aur.archlinux.org/quill.git
 	branch = master
-	commit = 094a0e5574a3359d4d6133645456d2f6cf3f4683
-	parent = d59d550712c7700c2193072bd22b79c6efc9208f
+	commit = 8727ec859d8b8104f268382437fa199834e4767b
+	parent = 991e03aaf8e6a948113f34908f48eb9a9703d7ac
 	method = rebase
 	cmdver = 0.4.9
