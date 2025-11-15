@@ -6,7 +6,7 @@
 [subrepo]
 	remote = ssh://aur@aur.archlinux.org/fakeit.git
 	branch = master
-	commit = e831773da9c7a02ffc91b0983bccbef4e5afb6d4
-	parent = 4c56e04b5b453d6db88e4d55ee0a0e74860a0eac
+	commit = 15f290a28a302b6e642dc11d56ed8532f8eb1773
+	parent = 88fdaf1747df8d7e4f55e30aa2f5e277071f8920
 	method = rebase
 	cmdver = 0.4.9
