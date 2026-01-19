@@ -6,7 +6,7 @@
 [subrepo]
 	remote = ssh://aur@aur.archlinux.org/functionalplus.git
 	branch = master
-	commit = f37e3c94a282126b7aca89d57926ca23a5d22a88
-	parent = 179c9a2eb1db0da186a194919b3fbbfc809d533a
+	commit = f6d9885fcd9fc3f6972b8bf7131fdcc2a1a5884b
+	parent = f331448bdd313f1c2a99dcaa1a6c7053b5366bfd
 	method = rebase
 	cmdver = 0.4.9
