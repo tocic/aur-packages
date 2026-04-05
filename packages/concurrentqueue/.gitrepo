@@ -6,7 +6,7 @@
 [subrepo]
 	remote = ssh://aur@aur.archlinux.org/concurrentqueue.git
 	branch = master
-	commit = 22d2cba19c25e27fd14fc4f31ae878bc720259fd
-	parent = d1aaa9f0c6fc25aec983802683d38fcdf1acae30
+	commit = d622c561eaa082217642e852561a0c657b476c29
+	parent = 3a1e696e79f3e896d6ef1a1b102653d7441d1847
 	method = rebase
 	cmdver = 0.4.9
