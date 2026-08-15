@@ -6,7 +6,7 @@
 [subrepo]
 	remote = ssh://aur@aur.archlinux.org/nanobench.git
 	branch = master
-	commit = 0cbba8e77da7704391e48ac39381cc3208864383
-	parent = 0e4fc2433a555d9966fecd4228236ff34e4ae928
+	commit = 5cc27687f0fb841241c472b3cc3cc0b92bc4cd5d
+	parent = 9c2e695f4d10e7d4b8359208f0aad08e5c1bf431
 	method = rebase
 	cmdver = 0.4.9
