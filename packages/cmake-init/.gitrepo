@@ -6,7 +6,7 @@
 [subrepo]
 	remote = ssh://aur@aur.archlinux.org/cmake-init.git
 	branch = master
-	commit = 9df82bbf0685ad7e7a3adfec90dc155c09a2681f
-	parent = d959a2ad60e388e8d964bd1ffe65d69f30485ba7
+	commit = 83dce93b8d51e6c83577eb61cdda927139f226d7
+	parent = 5f5a7e4649d09c61ddd31b972e6bf74d2b980b41
 	method = rebase
 	cmdver = 0.4.9
