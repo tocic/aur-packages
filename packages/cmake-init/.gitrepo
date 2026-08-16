@@ -1,0 +1,12 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/ingydotnet/git-subrepo#readme
+;
+[subrepo]
+	remote = ssh://aur@aur.archlinux.org/cmake-init.git
+	branch = master
+	commit = 9df82bbf0685ad7e7a3adfec90dc155c09a2681f
+	parent = d959a2ad60e388e8d964bd1ffe65d69f30485ba7
+	method = rebase
+	cmdver = 0.4.9
