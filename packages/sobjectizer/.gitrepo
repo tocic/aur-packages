@@ -6,7 +6,7 @@
 [subrepo]
 	remote = ssh://aur@aur.archlinux.org/sobjectizer.git
 	branch = master
-	commit = 06ca333f1f34cefa6e3eca9527fa648f4fc8f0b1
-	parent = 1c75aa66cd6f125f9580fda8f148d3ae03b6311d
+	commit = 26ab9f21bf2e93d1f8fecd4a4b1001517b229844
+	parent = af868dfc76f725c919ff4b700439dda998283412
 	method = rebase
 	cmdver = 0.4.9
