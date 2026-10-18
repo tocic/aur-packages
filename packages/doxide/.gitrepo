@@ -6,7 +6,7 @@
 [subrepo]
 	remote = ssh://aur@aur.archlinux.org/doxide.git
 	branch = master
-	commit = d47fa7d31784bc1fd31f921da9e5f94e655fd4b6
-	parent = 3dda0bbd0f9f1dbd650a3e974081964261996454
+	commit = 2d1bb3836a7bb1ea2cf4a28fbc97ecdc54c326e6
+	parent = 256cab4134a408ba03e2abd98c5c65476dd70434
 	method = rebase
 	cmdver = 0.4.9
