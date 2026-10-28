@@ -6,7 +6,7 @@
 [subrepo]
 	remote = ssh://aur@aur.archlinux.org/nameof.git
 	branch = master
-	commit = 5656bbcfe2a9aa753441dde7011bcab8d7907250
-	parent = f6feb2e11865582775f9f933592dc756c3775a3f
+	commit = 929ae209144c2340c24078d072ef6f78887ba656
+	parent = f9bc6f8739070ca1cf053293d9632a688d328027
 	method = rebase
 	cmdver = 0.4.9
